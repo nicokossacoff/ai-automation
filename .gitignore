@@ -1,5 +1,11 @@
 # macOS system files
 .DS_Store
 
+# Virtual environment folders
+.venv/
+
+# Environment files
+.env
+
 # Obsidian folders
 .obsidian/
